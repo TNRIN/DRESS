@@ -1,12 +1,12 @@
 {
-  "adminWhatsApp": "+1234567890",
+  "adminWhatsApp": "+94750191513",
   "lastOrderNumber": 1000,
   "currency": "LKR",
   "storeInfo": {
     "name": "Elegance Dress Shop",
     "address": "123 Fashion Street, Style City",
     "email": "contact@elegancedress.com",
-    "phone": "+1234567890",
+    "phone": "+94750191513",
     "workingHours": "Monday-Saturday: 10:00 AM - 8:00 PM, Sunday: Closed"
   },
   "shipping": {
