@@ -6,11 +6,11 @@
     "price": 199.99,
     "discountPrice": 179.99,
     "category": "evening",
-    "image": "/images/products/placeholder.svg",
+    "image": "/images/products/Evening Gown.PNG",
     "images": [
-      "/images/products/D:\DRESS\images\products/.PNG",
-      "/images/products/placeholder.svg",
-      "/images/products/placeholder.svg"
+      "/images/products/Evening Gown.PNG",
+      "/images/products/Evening Gown.PNG",
+      "/images/products/Evening Gown.PNG"
     ],
     "sizes": ["S", "M", "L", "XL"],
     "colors": ["Navy", "Burgundy", "Black"],
