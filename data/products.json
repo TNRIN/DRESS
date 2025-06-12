@@ -8,9 +8,9 @@
     "category": "evening",
     "image": "/images/products/Evening Gown.PNG",
     "images": [
-      "/images/products/Evening Gown 2.PNG",
-      "/images/products/Evening Gown 3.PNG",
-      "/images/products/Evening Gown 4.PNG"
+      "/images/products/Evening Gown.PNG",
+      "/images/products/Evening Gown.PNG",
+      "/images/products/Evening Gown.PNG"
     ],
     "sizes": ["S", "M", "L", "XL"],
     "colors": ["Navy", "Burgundy", "Black"],
