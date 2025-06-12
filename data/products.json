@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "name": "Elegant Evening Gown",
+    "description": "A stunning floor-length evening gown with delicate beading and a flowing silhouette. Perfect for formal events and special occasions.",
+    "price": 199.99,
+    "discountPrice": 179.99,
+    "category": "evening",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Navy", "Burgundy", "Black"],
+    "inStock": true,
+    "rating": 4.8,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Floral Summer Dress",
+    "description": "A light and breezy summer dress with a beautiful floral pattern. Made from breathable cotton for maximum comfort on hot days.",
+    "price": 89.99,
+    "discountPrice": null,
+    "category": "casual",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Blue", "Pink", "Yellow"],
+    "inStock": true,
+    "rating": 4.5,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Business Pencil Dress",
+    "description": "A sophisticated pencil dress perfect for the office or professional settings. Tailored fit with a comfortable stretch fabric.",
+    "price": 129.99,
+    "discountPrice": 109.99,
+    "category": "business",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Gray", "Navy"],
+    "inStock": true,
+    "rating": 4.7,
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "Cocktail Party Dress",
+    "description": "A chic and stylish cocktail dress for parties and semi-formal events. Features a flattering cut and modern design.",
+    "price": 149.99,
+    "discountPrice": 129.99,
+    "category": "party",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Red", "Black", "Silver"],
+    "inStock": true,
+    "rating": 4.6,
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Maxi Sundress",
+    "description": "A long, flowing maxi sundress perfect for beach vacations or casual summer outings. Made from lightweight, breathable fabric.",
+    "price": 79.99,
+    "discountPrice": 69.99,
+    "category": "casual",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["White", "Blue", "Green"],
+    "inStock": true,
+    "rating": 4.4,
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Bridesmaid Gown",
+    "description": "An elegant bridesmaid gown with a flattering silhouette. Available in multiple colors to match any wedding theme.",
+    "price": 159.99,
+    "discountPrice": null,
+    "category": "wedding",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["Blush", "Lavender", "Mint", "Champagne"],
+    "inStock": true,
+    "rating": 4.9,
+    "featured": true
+  },
+  {
+    "id": 7,
+    "name": "Wrap Dress",
+    "description": "A versatile wrap dress that flatters all body types. Can be dressed up or down for various occasions.",
+    "price": 99.99,
+    "discountPrice": 89.99,
+    "category": "casual",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Navy", "Maroon"],
+    "inStock": true,
+    "rating": 4.7,
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Prom Dress",
+    "description": "A glamorous prom dress with sequins and a dramatic silhouette. Make a statement at your special event.",
+    "price": 189.99,
+    "discountPrice": 169.99,
+    "category": "evening",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Gold", "Silver", "Rose Gold", "Black"],
+    "inStock": true,
+    "rating": 4.8,
+    "featured": true
+  },
+  {
+    "id": 9,
+    "name": "Bohemian Maxi Dress",
+    "description": "A free-spirited bohemian maxi dress with intricate patterns and flowing design. Perfect for festivals and summer events.",
+    "price": 119.99,
+    "discountPrice": 99.99,
+    "category": "casual",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Multicolor", "Earth Tones", "Blue Mix"],
+    "inStock": true,
+    "rating": 4.6,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Little Black Dress",
+    "description": "The classic little black dress - a wardrobe essential. Simple, elegant, and perfect for any occasion.",
+    "price": 129.99,
+    "discountPrice": null,
+    "category": "party",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["Black"],
+    "inStock": true,
+    "rating": 4.9,
+    "featured": true
+  },
+  {
+    "id": 11,
+    "name": "Wedding Guest Dress",
+    "description": "An elegant dress perfect for attending weddings and formal events. Sophisticated design with beautiful detailing.",
+    "price": 149.99,
+    "discountPrice": 129.99,
+    "category": "wedding",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Dusty Blue", "Sage Green", "Mauve"],
+    "inStock": true,
+    "rating": 4.7,
+    "featured": false
+  },
+  {
+    "id": 12,
+    "name": "Shift Work Dress",
+    "description": "A comfortable yet professional shift dress for the workplace. Easy to style and maintain for daily wear.",
+    "price": 109.99,
+    "discountPrice": 89.99,
+    "category": "business",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["Navy", "Black", "Burgundy", "Gray"],
+    "inStock": true,
+    "rating": 4.5,
+    "featured": false
+  },
+  {
+    "id": 13,
+    "name": "Vintage-Inspired Dress",
+    "description": "A retro-style dress with vintage-inspired details. Brings classic elegance with a modern twist.",
+    "price": 139.99,
+    "discountPrice": 119.99,
+    "category": "party",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Red", "Navy", "Emerald"],
+    "inStock": true,
+    "rating": 4.8,
+    "featured": false
+  },
+  {
+    "id": 14,
+    "name": "Midi Sweater Dress",
+    "description": "A cozy and stylish midi sweater dress for cooler weather. Comfortable yet fashionable for everyday wear.",
+    "price": 119.99,
+    "discountPrice": 99.99,
+    "category": "casual",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Beige", "Gray", "Olive"],
+    "inStock": true,
+    "rating": 4.6,
+    "featured": false
+  },
+  {
+    "id": 15,
+    "name": "Formal Ball Gown",
+    "description": "A luxurious ball gown for the most formal occasions. Features a structured bodice and full skirt for a dramatic silhouette.",
+    "price": 299.99,
+    "discountPrice": 249.99,
+    "category": "evening",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Royal Blue", "Emerald", "Burgundy", "Black"],
+    "inStock": true,
+    "rating": 4.9,
+    "featured": true
+  },
+  {
+    "id": 16,
+    "name": "Casual T-Shirt Dress",
+    "description": "A comfortable and casual t-shirt dress for everyday wear. Easy to style and perfect for running errands or casual outings.",
+    "price": 59.99,
+    "discountPrice": 49.99,
+    "category": "casual",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["Gray", "Black", "Navy", "Striped"],
+    "inStock": true,
+    "rating": 4.4,
+    "featured": false
+  },
+  {
+    "id": 17,
+    "name": "Satin Slip Dress",
+    "description": "A sleek and elegant satin slip dress. Minimalist design with a luxurious feel for special occasions.",
+    "price": 129.99,
+    "discountPrice": null,
+    "category": "party",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Champagne", "Black", "Dusty Rose"],
+    "inStock": true,
+    "rating": 4.7,
+    "featured": false
+  },
+  {
+    "id": 18,
+    "name": "Floral Midi Dress",
+    "description": "A feminine floral midi dress with a flattering silhouette. Perfect for garden parties and spring events.",
+    "price": 119.99,
+    "discountPrice": 99.99,
+    "category": "casual",
+    "image": "/images/products/placeholder.svg",
+    "images": [
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg",
+      "/images/products/placeholder.svg"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Blue Floral", "Pink Floral", "Yellow Floral"],
+    "inStock": true,
+    "rating": 4.6,
+    "featured": false
+  }
+]
