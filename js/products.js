@@ -14,7 +14,7 @@ window.createProductCard = createProductCard;
 // Load products from JSON file
 async function loadProducts() {
     try {
-        const response = await fetch('/data/products.json');
+        const response = await fetch('./data/products.json');
         if (!response.ok) {
             throw new Error(`Failed to load products: ${response.status} ${response.statusText}`);
         }
